@@ -1,0 +1,7 @@
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\1-\bin\Debug\1-.exe.config
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\1-\bin\Debug\1-.exe
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\1-\bin\Debug\1-.pdb
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\1-\obj\Debug\01-ByteBank.csprojAssemblyReference.cache
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\1-\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\1-\obj\Debug\1-.exe
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\1-\obj\Debug\1-.pdb

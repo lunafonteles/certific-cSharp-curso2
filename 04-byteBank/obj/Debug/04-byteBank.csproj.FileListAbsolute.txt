@@ -1,0 +1,7 @@
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\04-byteBank\bin\Debug\_04_byteBank.exe.config
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\04-byteBank\bin\Debug\_04_byteBank.exe
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\04-byteBank\bin\Debug\_04_byteBank.pdb
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\04-byteBank\obj\Debug\04-byteBank.csproj.CoreCompileInputs.cache
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\04-byteBank\obj\Debug\_04_byteBank.exe
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\04-byteBank\obj\Debug\_04_byteBank.pdb
+D:\Users\luna.fonteles\Desktop\Luna\cSharp\Curso2\04-byteBank\obj\Debug\04-byteBank.csprojAssemblyReference.cache
